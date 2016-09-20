@@ -6,3 +6,7 @@
 * `git commit -m "<comments>" - commit file to repository
 * `git diff` - difference files in staging area [Note this only works for files in staging area use "git diff --staged"
 * `git log` - display log of git repository changes
+* `git push <remote> <branch>` - send changes in local repository to a remote repository branch
+* `git pull <remote> <ranch>` - missed it again
+
+Forking a repository: text goes here
